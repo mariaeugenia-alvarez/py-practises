@@ -1,4 +1,4 @@
-def geometric_sequence_sum(a, r, n):
+def solution(a, r, n):
     if isValidArgs(a, r, n):
             expected = calculate(a, r, n)    
     return(expected)
